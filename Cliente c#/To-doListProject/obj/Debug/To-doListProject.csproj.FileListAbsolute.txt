@@ -1,0 +1,13 @@
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\bin\Debug\To-doListProject.exe.config
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\bin\Debug\To-doListProject.exe
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\bin\Debug\To-doListProject.pdb
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To-doListProject.csproj.AssemblyReference.cache
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To_doListProject.Login.resources
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To_doListProject.Properties.Resources.resources
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To-doListProject.csproj.GenerateResource.cache
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To-doListProject.csproj.CoreCompileInputs.cache
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To-doListProject.exe
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To-doListProject.pdb
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To_doListProject.Menu.resources
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To_doListProject.Inicio.resources
+C:\Users\thech\OneDrive\Documentos\Carrera\5to Semestre\Lenguajes de programacion\ToDo-List Proyecto\Cliente c#\To-doListProject\obj\Debug\To_doListProject.Registro.resources
